@@ -1,0 +1,12 @@
+# Local files and secret-bearing exports
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.ovpn
+*.log
+__pycache__/
